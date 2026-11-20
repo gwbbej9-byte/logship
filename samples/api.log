@@ -1,0 +1,7 @@
+{"level":"INFO","msg":"listen :8080","svc":"api"}
+{"level":"DEBUG","msg":"GET /v1/users 200 12ms","request_id":"r-18"}
+{"level":"WARN","msg":"rate limit approaching key=shop-4 remaining=9"}
+{"level":"ERROR","msg":"db timeout after 3s query=select orders"}
+{"level":"INFO","msg":"GET /healthz 200 1ms"}
+2026-11-17T11:02:20Z ERROR upstream 502 from billing
+2026-11-17T11:02:21Z INFO recovered connection pool=12

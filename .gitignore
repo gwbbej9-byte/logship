@@ -1,0 +1,7 @@
+logship
+logship.exe
+*.exe
+*.test
+*.out
+.DS_Store
+Thumbs.db

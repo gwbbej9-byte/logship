@@ -1,0 +1,8 @@
+2026-11-17T11:02:01Z INFO started worker pool size=8
+2026-11-17T11:02:01Z DEBUG binding listener :8443
+{"ts":"2026-11-17T11:02:04Z","level":"info","msg":"loaded config path=/etc/app.yaml"}
+2026-11-17T11:02:08Z WARN retry queue depth=41
+2026-11-17T11:02:11Z ERROR failed to flush wal: no space left on device
+{"ts":"2026-11-17T11:02:12Z","level":"debug","msg":"gc cycle 12 freed=4.1MiB"}
+2026-11-17T11:02:15Z INFO request id=a31c method=POST path=/ingest status=204 dur=3ms
+2026-11-17T11:02:18Z WARN disk usage 87% on /var/lib/logship
